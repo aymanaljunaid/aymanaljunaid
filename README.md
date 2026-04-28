@@ -10,8 +10,6 @@
   <a href="mailto:ayman@aljunaid.co">ayman@aljunaid.co</a>
 </p>
 
----
-
 ## About Me
 
 I’m passionate about building useful things on the web.
