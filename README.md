@@ -19,9 +19,9 @@ I take ideas from concept to production. I care about systems that solve real pr
 
 ## Featured Work
 
-- [**Object Detection Tool**](https://github.com/aymanaljunaid/object-detection-tool) — Real-time detection app powered by YOLOv8
+- [**VeerHost**](https://veerhost.com) — Hosting and infrastructure platform providing web hosting, VPS, cloud services, and developer solutions
+- [**StartupsMap**](https://startupsmap.xyz) — Startup discovery platform helping founders showcase and grow their startups worldwide
 - [**InterServer Upmind Bridge**](https://github.com/aymanaljunaid/interserver-upmind-bridge) — Cloudflare Worker for VPS provisioning automation
-- [**OSINTGPT**](https://github.com/aymanaljunaid/OSINTGPT) — OSINT research tool powered by Google Dorks and AI
 
 ## Focus Areas
 
