@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  Founder of <a href="https://aljunaid.co" target="_blank">Al-Junaid Agency</a> •
+  Founder of <a href="https://veerhost.com" target="_blank">VeerHost</a> •
   Egypt •
-  <a href="mailto:ayman@aljunaid.co">ayman@aljunaid.co</a>
+  <a href="mailto:ayman@veerhost.com">ayman@veerhost.com</a>
 </p>
 
 ## About Me
@@ -33,5 +33,5 @@ I take ideas from concept to production. I care about systems that solve real pr
 
 ## Links
 
-- Website: https://aljunaid.co
-- Email: ayman@aljunaid.co
+- Website: https://veerhost.com
+- Email: ayman@veerhost.com
