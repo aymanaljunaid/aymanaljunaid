@@ -1,7 +1,7 @@
 <h1 align="center">Ayman Al-Junaid</h1>
 
 <p align="center">
-  Web developer building AI tools, hosting solutions, and open-source projects.
+  Web developer building AI tools, hosting solutions, and SaaS products.
 </p>
 
 <p align="center">
@@ -13,22 +13,21 @@
 ## About Me
 
 I’m passionate about building useful things on the web.
-Most of my work is centered around AI tools, hosting solutions, automation, and open-source projects.
+Most of my work is centered around AI tools, hosting solutions, and automation.
 
 I take ideas from concept to production. I care about systems that solve real problems. Currently working on AI/LLM integrations, web hosting solutions, and tools that make developers' lives easier.
 
 ## Featured Work
 
-- [**VeerHost**](https://veerhost.com) — Hosting and infrastructure platform providing web hosting, VPS, cloud services, and developer solutions
-- [**StartupsMap**](https://startupsmap.xyz) — Startup discovery platform helping founders showcase and grow their startups worldwide
-- [**InterServer Upmind Bridge**](https://github.com/aymanaljunaid/interserver-upmind-bridge) — Cloudflare Worker for VPS provisioning automation
+- [**VeerHost**](https://veerhost.com) — Hosting platform providing web hosting, WordPress hosting, WooCommerce Hosting, VPS, and developer solutions.
+- [**Apply Remote**](https://applyremote.co) — Free remote job board to help people discover remote opportunities anywhere.
+- [**InterServer Upmind Bridge**](https://github.com/aymanaljunaid/interserver-upmind-bridge) — Cloudflare Worker for VPS provisioning automation.
 
 ## Focus Areas
 
 - AI applications and automations
 - Hosting infrastructure and provisioning
 - Web development and performance
-- Open-source software
 - Developer tools and research tools
 
 ## Links
